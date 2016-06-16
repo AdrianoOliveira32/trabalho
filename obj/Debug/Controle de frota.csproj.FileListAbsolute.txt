@@ -1,0 +1,9 @@
+c:\users\adriano\documents\visual studio 2013\Projects\Controle de frota\Controle de frota\bin\Debug\Controle de frota.exe.config
+c:\users\adriano\documents\visual studio 2013\Projects\Controle de frota\Controle de frota\bin\Debug\Controle de frota.exe
+c:\users\adriano\documents\visual studio 2013\Projects\Controle de frota\Controle de frota\bin\Debug\Controle de frota.pdb
+c:\users\adriano\documents\visual studio 2013\Projects\Controle de frota\Controle de frota\obj\Debug\Controle de frota.csprojResolveAssemblyReference.cache
+c:\users\adriano\documents\visual studio 2013\Projects\Controle de frota\Controle de frota\obj\Debug\Controle_de_frota.Form1.resources
+c:\users\adriano\documents\visual studio 2013\Projects\Controle de frota\Controle de frota\obj\Debug\Controle_de_frota.Properties.Resources.resources
+c:\users\adriano\documents\visual studio 2013\Projects\Controle de frota\Controle de frota\obj\Debug\Controle de frota.csproj.GenerateResource.Cache
+c:\users\adriano\documents\visual studio 2013\Projects\Controle de frota\Controle de frota\obj\Debug\Controle de frota.exe
+c:\users\adriano\documents\visual studio 2013\Projects\Controle de frota\Controle de frota\obj\Debug\Controle de frota.pdb
